@@ -1,0 +1,20 @@
+﻿---
+-
+  element_info: 个人中心 Link
+  find_type: by_uiautomator
+  operate_type: click
+  test_id: 10011
+  test_intr: 退出登录
+
+
+-
+  element_info: 退出登录
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: 初始设置
+  find_type: by_uiautomator
+
+
+

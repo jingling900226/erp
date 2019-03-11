@@ -1,0 +1,90 @@
+﻿---
+-
+  element_info: "201"
+  find_type: by_uiautomator
+  operate_type: click
+  test_id: 3001
+  test_intr: 开关台-现结
+
+-
+  element_info: 开台
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: 30分钟
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: 结账
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: android.widget.EditText
+  find_type: class_names
+  operate_type: send_keys
+  text: 10
+  index: 2
+-
+  element_info: 确认
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: "201"
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: 点单
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: "002"
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: "12"
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: android.widget.EditText
+  find_type: class_names
+  operate_type: send_keys
+  text: 10
+  index: 2
+
+-
+  element_info: 确认
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: "201"
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: 关台
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: 置空闲
+  find_type: by_uiautomator
+  operate_type: click
+
+-
+  element_info: 确定
+  find_type: by_uiautomator
+  operate_type: click
+
+
+
+
+

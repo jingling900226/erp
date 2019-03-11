@@ -1,0 +1,29 @@
+﻿---
+-
+  element_info: 收银 Link
+  find_type: by_uiautomator
+  operate_type: click
+  test_id: 1002
+  test_intr: 收银开台
+-
+  element_info: "1"
+  find_type: by_uiautomator
+  operate_type: click
+-
+  element_info: "12"
+  find_type: by_uiautomator
+  operate_type: click
+- 
+  element_info: "201"
+  find_type: by_uiautomator
+  operate_type: click
+- 
+  element_info: "124"
+  find_type: by_uiautomator
+  operate_type: click
+-
+  element_info: 收银系统
+  find_type: by_uiautomator
+
+
+

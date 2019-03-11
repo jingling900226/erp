@@ -1,0 +1,11 @@
+﻿---
+-
+  element_info: cn.ibona.t1_beta:id/meLinearLayout
+  find_type: by_id
+  operate_type: click
+  test_id: 1003
+  test_intr: 添加房型
+
+
+
+

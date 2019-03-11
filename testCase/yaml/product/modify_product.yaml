@@ -1,0 +1,24 @@
+﻿---
+-
+  element_info: //android.widget.ListView//android.view.View[1]//android.widget.EditText
+  find_type: by_xpath
+  operate_type: send_keys
+  text: 15803218817
+  test_id: 1001
+  test_intr: 登陆
+
+-
+  element_info: //android.widget.ListView//android.view.View[2]//android.widget.EditText
+  find_type: by_xpath
+  operate_type: send_keys
+  text: 123456789
+
+-
+  element_info: //android.widget.Button
+  find_type: by_xpath
+  operate_type: click
+
+-
+  element_info: 房间管理
+  find_type: by_uiautomator
+
